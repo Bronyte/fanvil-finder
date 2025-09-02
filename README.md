@@ -17,7 +17,7 @@ It works by probing the `default_user_config.txt` endpoint — Fanvil devices re
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/fanvil-finder.git
+git clone https://github.com/bronyte/fanvil-finder.git
 cd fanvil-finder
 pip install -r requirements.txt
 python3 main.py
